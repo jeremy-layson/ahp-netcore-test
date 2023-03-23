@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SampleBackend
+build_property.ProjectDir = H:\Tests\jeremy-ahp-example\net core\SampleBackend\SampleBackend\

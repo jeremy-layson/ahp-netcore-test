@@ -1,0 +1,13 @@
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\bin\Debug\netcoreapp3.1\Sample.Data.deps.json
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\bin\Debug\netcoreapp3.1\Sample.Data.runtimeconfig.json
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\bin\Debug\netcoreapp3.1\Sample.Data.runtimeconfig.dev.json
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\bin\Debug\netcoreapp3.1\Sample.Data.dll
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\bin\Debug\netcoreapp3.1\Sample.Data.pdb
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.csproj.AssemblyReference.cache
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.AssemblyInfoInputs.cache
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.AssemblyInfo.cs
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.csproj.CoreCompileInputs.cache
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.dll
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.pdb
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Data\obj\Debug\netcoreapp3.1\Sample.Data.genruntimeconfig.cache

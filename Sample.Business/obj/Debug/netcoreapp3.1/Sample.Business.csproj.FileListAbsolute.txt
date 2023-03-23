@@ -1,0 +1,13 @@
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.csproj.AssemblyReference.cache
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.GeneratedMSBuildEditorConfig.editorconfig
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.AssemblyInfoInputs.cache
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.AssemblyInfo.cs
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.csproj.CoreCompileInputs.cache
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Business.deps.json
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Business.dll
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Business.pdb
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Data.dll
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\bin\Debug\netcoreapp3.1\Sample.Data.pdb
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.csproj.CopyComplete
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.dll
+H:\Tests\jeremy-ahp-example\net core\SampleBackend\Sample.Business\obj\Debug\netcoreapp3.1\Sample.Business.pdb
